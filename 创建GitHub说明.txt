@@ -1,0 +1,4 @@
+1.在GitHub网站上创建一个项目
+2.初始化有README.md 
+3.提前打开GitHub，Clone in Desktop
+4.路径可以随意选择
