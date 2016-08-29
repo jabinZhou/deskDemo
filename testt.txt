@@ -1,0 +1,18 @@
+cocopod的说明
+
+cd /Users/jabinjabin/Desktop/text/CocoaPods
+vim Podfile
+platform :ios, '8.0'
+
+use_frameworks!
+
+target 'MyApp' do 
+
+    pod 'AFNetworking', '~> 2.6'
+
+    pod 'ORStackView', '~> 3.0'
+
+    pod 'SwiftyJSON', '~> 2.3'
+
+end
+ESC:wq
