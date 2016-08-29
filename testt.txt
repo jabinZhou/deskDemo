@@ -4,18 +4,17 @@ cd /Users/jabinjabin/Desktop/text/CocoaPods
 vim Podfile
 platform :ios, '8.0'
 
-use_frameworks!
 
 target 'MyApp' do 
 
-    pod 'AFNetworking', '~> 2.6'
+    pod 'AFNetworking'
 
-    pod 'ORStackView', '~> 3.0'
+    pod 'ORStackView'
 
-    pod 'SwiftyJSON', '~> 2.3'
+    pod 'SwiftyJSON'
 
 end
 ESC:wq
 
 
-pod install
+pod install（第一次）／pod update（非第一次）
