@@ -16,3 +16,6 @@ target 'MyApp' do
 
 end
 ESC:wq
+
+
+pod install
