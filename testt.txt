@@ -18,3 +18,5 @@ ESC:wq
 
 
 pod install（第一次）／pod update（非第一次）
+
+pod search FMDB
