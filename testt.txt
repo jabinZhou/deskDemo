@@ -20,3 +20,27 @@ ESC:wq
 pod install（第一次）／pod update（非第一次）
 
 pod search FMDB
+
+
+
+Installing AFNetworking (3.1.0)
+Installing CocoaAsyncSocket (7.5.0)
+Installing FMDB (2.6.2)
+Installing GPUImage (0.1.7)
+Installing IQKeyboardManager (4.0.5)
+Installing ISO8601DateFormatterValueTransformer (0.6.1)
+Installing JSPatch (1.1)
+Using MBProgressHUD (1.0.0)
+Installing MagicalRecord (2.3.2)
+Installing Mantle (2.0.7)
+Installing Masonry (1.0.1)
+Installing QuickDialog (1.1.0)
+Installing RESideMenu (4.0.7)
+Installing RKValueTransformers (1.1.3)
+Using ReactiveCocoa (4.2.1)
+Installing RestKit (0.27.0)
+Using Result (2.1.3)
+Using SDWebImage (3.8.1)
+Installing SOCKit (1.1)
+Installing SWTableViewCell (0.3.7)
+Installing TransitionKit (2.2.1)
